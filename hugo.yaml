@@ -1,4 +1,4 @@
-baseURL: "/personal-site/"
+baseURL: "/"
 languageCode: "en-us"
 title: "Anna Oquidam"
 theme: hugo-profile
