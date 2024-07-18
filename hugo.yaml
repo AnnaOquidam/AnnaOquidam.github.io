@@ -255,7 +255,7 @@ params:
     items:
       - title: Handimanagement Label
         content: Training to learn how to better integrate people with disabilities into the workplace.
-        image: ./images/handimanagement.jpeg
+        image: ./images/Handimanagement.jpeg
         featured:
           name: Companieros
           link: https://www.companieros.com/formation-handicap/
