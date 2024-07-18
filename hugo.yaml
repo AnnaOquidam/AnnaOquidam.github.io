@@ -3,10 +3,6 @@ languageCode: "en-us"
 title: "Anna Oquidam"
 theme: hugo-profile
 
-module:
-  imports:
-  - path: github.com/gurusabarish/hugo-profile
-
 outputs:
   home:
     - "HTML"
