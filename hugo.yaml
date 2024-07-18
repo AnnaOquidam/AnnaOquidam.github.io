@@ -1,4 +1,4 @@
-baseURL: "/personal-site"
+baseURL: "./personal-site"
 languageCode: "en-us"
 title: "Anna Oquidam"
 theme: hugo-profile
@@ -24,7 +24,7 @@ params:
   title: "Anna Oquidam"
   description: My personal site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/favicon.ico?"
+  favicon: "./favicon.ico?"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -97,14 +97,14 @@ params:
     title: "Anna Oquidam"
     subtitle: "5th year student at ESIEA school"
     content: "Being in the Software Engineering major, I want to use my knowledge to be able to help make the internet a more accessible place."
-    image: /images/me2.jpg
+    image: ./images/me2.jpg
     bottomImage:
       enable: true
       #roundImage: true # Make hero image circular | default false
     button:
       enable: true
       name: "Resume (french)"
-      url: "/Anna_Oquidam_Resume.pdf"
+      url: "./Anna_Oquidam_Resume.pdf"
       download: true
       newPage: false
     socialLinks:
@@ -113,15 +113,12 @@ params:
           url: https://github.com/AnnaOquidam
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/anna-oquidam/
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
 
   # About
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.jpg"
+    image: "./images/me.jpg"
     content: |-
       Currently in my final year of digital engineering school, I am looking for an end-of-studies internship which can start from February 10, 2025 for a duration of 6 months.
 
@@ -258,7 +255,7 @@ params:
     items:
       - title: Handimanagement Label
         content: Training to learn how to better integrate people with disabilities into the workplace.
-        image: /images/handimanagement.jpeg
+        image: ./images/handimanagement.jpeg
         featured:
           name: Companieros
           link: https://www.companieros.com/formation-handicap/
@@ -269,7 +266,7 @@ params:
 
       - title: Cisco CCNA1
         content: A certification to validate the knowledge and skills in network fundamentals and access. 
-        image: /images/CCNA.jpg
+        image: ./images/CCNA.jpg
         featured:
           name: Cisco
           link: https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html
@@ -278,7 +275,7 @@ params:
 
       - title: JavaScriptAlgorithms and Data Structures
         content: A FreeCodeCamp certifiation to learn about in depth JavaScript
-        image: /images/FreeCodeCamp.png
+        image: ./images/FreeCodeCamp.png
         featured:
           name: Certification
           link: https://www.freecodecamp.org/certification/Anermione/javascript-algorithms-and-data-structures
