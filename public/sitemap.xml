@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://annaoquidam.github.io/personal-site/</loc>
+    <loc>/personal-site/</loc>
   </url><url>
-    <loc>https://annaoquidam.github.io/personal-site/categories/</loc>
+    <loc>/personal-site/categories/</loc>
   </url><url>
-    <loc>https://annaoquidam.github.io/personal-site/tags/</loc>
+    <loc>/personal-site/tags/</loc>
   </url>
 </urlset>
