@@ -1,5 +1,9 @@
+/config.yaml
+/content
+/static/images
 .vscode
 .DS_Store
+.github/
 
 ### Hugo ###
 # Generated files by hugo
