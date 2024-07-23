@@ -3,7 +3,7 @@
 
 ### Hugo ###
 # Generated files by hugo
-/public/
+#/public/
 /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json
@@ -14,4 +14,4 @@ hugo.darwin
 hugo.linux
 
 # Temporary lock file while building
-.hugo_build.lock
+#.hugo_build.lock
