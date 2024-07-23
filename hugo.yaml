@@ -106,7 +106,7 @@ params:
       name: "Resume (french)"
       url: "https://www.canva.com/design/DAGK_-U0xx0/N9UpdttQe5JL7Mah4NptKw/view?utm_content=DAGK_-U0xx0&utm_campaign=designshare&utm_medium=link&utm_source=editor"
       download: true
-      newPage: false
+      newPage: true
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
